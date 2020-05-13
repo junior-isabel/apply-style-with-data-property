@@ -25,3 +25,4 @@
 </body>
 </html>
 ```
+![alt](https://github.com/junior-isabel/apply-style-with-data-property/blob/master/html-style.PNG)
