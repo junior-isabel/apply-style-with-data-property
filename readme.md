@@ -1,4 +1,4 @@
-# aplicação de estilo deforma dinamica com javascript
+# aplicação de estilo de forma dinamica com javascript
 
 ```html
 <html lang="pt-Ao">
